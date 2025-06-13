@@ -34,7 +34,7 @@ AJ&Smart UI/UX   YouTube – تحويل تصميم Figma إلى كود
 
 [**مكتبة مذهلة هتوفرلك وقتك في البرمجة والتصميم**](https://www.notion.so/1fbeb0f2aa678070a000e0923dbe8635?pvs=21)
 
-[[Excalidraw](https://excalidraw.com/)](https://www.notion.so/Excalidraw-1fceb0f2aa6780589ba6eec7e6baf374?pvs=21)
+[[Excalidraw](https://excalidraw.com/)](https://www.notion.so/Excalidraw-1fceb0f2aa6780589ba6eec7e6baf374?pvs=21)  https://excalidraw.com/#json=HzJ5zbQw7Qi54sjpPi0CD,D7SuPpbeE-pSk_F1L6y35Q my project
 
 [NoteGPT](https://www.notion.so/NoteGPT-1fdeb0f2aa678041a9fcd8e5b3bc9a6d?pvs=21)
 
