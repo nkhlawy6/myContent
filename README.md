@@ -5,7 +5,7 @@ to save what i like
 *channels*
 -camelCase
 -https://youtu.be/_tWh4cYCTv0?si=NiE4g9YojmiUPdsw
-AJ&Smart UI/UX 
+AJ&Smart UI/UX   YouTube – تحويل تصميم Figma إلى كود
 
 
 
