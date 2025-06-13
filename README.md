@@ -42,3 +42,4 @@ to save what i like
 [[Courses](https://scrimba.com/courses)](https://www.notion.so/Courses-1ffeb0f2aa6780039a05ec99fa8efdee?pvs=21)
 
 [رفع مشروع علي جيت هاب](https://www.notion.so/203eb0f2aa67809dab84f89a544c6ef8?pvs=21)
+https://youtu.be/40hRaW9ByYk?si=51iCCe4yjWCKfeXU    How to setup your GitHub profile
