@@ -40,6 +40,13 @@ AJ&Smart UI/UX   YouTube – تحويل تصميم Figma إلى كود
 
 [[All Paths | The Odin Project](https://www.theodinproject.com/paths)](https://www.notion.so/All-Paths-The-Odin-Project-1ffeb0f2aa67804ab657f7f950efa51e?pvs=21)
 
+
+ #vs code extentions
+-Auto Rename Tag
+-TODO Highlight
+-HTML End Tag Labels
+-Highlight Matching Tag
+
 [[Courses](https://scrimba.com/courses)](https://www.notion.so/Courses-1ffeb0f2aa6780039a05ec99fa8efdee?pvs=21)
 
 [رفع مشروع علي جيت هاب](https://www.notion.so/203eb0f2aa67809dab84f89a544c6ef8?pvs=21)
